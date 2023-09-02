@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recippe
+ a simple recipe website for practice
